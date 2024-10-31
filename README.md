@@ -1,6 +1,6 @@
 # Portfolio-Management
 
-This repository is for my portfolio management project using zapper's API. This project is meant to monitor wallet balances, and assessing token values for effective portfolio management.
+This project focuses on portfolio management using zapper's API. This project is meant to monitor wallet balances, and assessing token values for effective portfolio management.
 
 ## Use Cases
 - Monitor Wallet Balances and Net Worth: Tracks the balances across multiple wallets for a consolidated view of total assets.
