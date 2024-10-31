@@ -17,4 +17,4 @@ Once the Zapper API key is available, data retrieval functions will be fully imp
 ## Future Development
 Post-integration, enhancements will focus on visual analytics and additional support for diversified crypto assets, creating a robust tool for financial management within the crypto ecosystem.
 
-## This project is partnof a learning initiative and rwmains in development. Additional updates and improvements are ongoing.
+## This project is part of a learning initiative and remains in development. Additional updates and improvements are ongoing.
